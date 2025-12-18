@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Tumbuhan
+comment1.params=namaSpesies
+comment1.target=Tumbuhan(java.lang.String)
+comment2.params=
+comment2.target=void\ bernafas()
+comment3.params=
+comment3.target=void\ makan()
+comment4.params=
+comment4.target=void\ tumbuh()
+numComments=5
