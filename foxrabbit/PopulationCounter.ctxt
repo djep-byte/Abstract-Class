@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PopulationCounter
+comment1.params=label
+comment1.target=PopulationCounter(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getLabel()
+comment3.params=
+comment3.target=int\ getTotal()
+comment4.params=
+comment4.target=void\ increase()
+comment5.params=
+comment5.target=void\ clear()
+numComments=6

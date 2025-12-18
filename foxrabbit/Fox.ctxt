@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Fox
+comment1.params=newFoxes
+comment1.target=void\ act(java.util.List)
+comment2.params=newFoxes
+comment2.target=void\ breed(java.util.List)
+numComments=3

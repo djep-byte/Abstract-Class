@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Simulator
+comment1.params=
+comment1.target=Simulator()
+comment2.params=rows\ columns
+comment2.target=Simulator(int,\ int)
+comment3.params=cycles
+comment3.target=void\ runSimulation(int)
+comment4.params=
+comment4.target=void\ advanceCycle()
+comment5.params=
+comment5.target=void\ initialize()
+comment6.params=
+comment6.target=void\ spawnInitial()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

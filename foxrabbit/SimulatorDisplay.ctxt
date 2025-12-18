@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SimulatorDisplay
+comment1.params=rows\ columns
+comment1.target=SimulatorDisplay(int,\ int)
+comment2.params=type\ color
+comment2.target=void\ assignColor(java.lang.Class,\ java.lang.String)
+comment3.params=grid
+comment3.target=boolean\ isSustainable(Field)
+comment4.params=cycle\ grid
+comment4.target=void\ updateStatus(int,\ Field)
+numComments=5

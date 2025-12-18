@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Field
+comment1.params=rows\ columns
+comment1.target=Field(int,\ int)
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=r\ c
+comment3.target=Animal\ getAnimalAt(int,\ int)
+comment4.params=
+comment4.target=int\ getRows()
+comment5.params=
+comment5.target=int\ getColumns()
+numComments=6
